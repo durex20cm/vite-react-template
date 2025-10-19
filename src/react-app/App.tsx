@@ -27,7 +27,7 @@ function App() {
           <img src={cloudflareLogo} className="logo cloudflare" alt="Cloudflare logo" />
         </a>
       </div>
-      <h1>Vite222 + React + Hono + Cloudflare</h1>
+      <h1>Vite2 + React + Hono + Cloudflare</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)} aria-label="increment">
           count is {count}
